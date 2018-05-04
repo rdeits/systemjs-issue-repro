@@ -1,0 +1,14 @@
+{
+  "name": "systemjs-test",
+  "version": "0.0.1",
+  "dependencies": {
+    "systemjs": "0.21.3"
+  },
+  "devDependencies": {
+    "webpack": "^4.6",
+    "webpack-cli": "^2.1"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
